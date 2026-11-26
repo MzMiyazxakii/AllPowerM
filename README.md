@@ -7,7 +7,7 @@ Minecraft 1.20.1 Forge mod project.
 - Minecraft: 1.20.1
 - Forge: 47.4.28
 - Java: 17
-- GeckoLib: 4.7.5
+- GeckoLib: 4.8.5
 
 ## Build
 
